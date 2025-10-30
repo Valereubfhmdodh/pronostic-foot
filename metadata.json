@@ -1,0 +1,5 @@
+{
+  "name": "Sports Bet Strategist AI",
+  "description": "An AI-powered application to help sports bettors devise a betting strategy to reach a target amount and analyze upcoming matches to predict statistics like goals, score, corners, and cards.",
+  "requestFramePermissions": []
+}
